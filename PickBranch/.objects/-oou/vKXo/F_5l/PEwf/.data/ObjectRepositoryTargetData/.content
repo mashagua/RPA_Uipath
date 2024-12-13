@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="keYtTSSqKkCUIYgCuCc-Zw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" DesignTimeRectangle="12, 80, 0, 0" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='dashmenu' tag='A' type='' class='' /&gt;" Guid="5052fc1f-a4e3-45c9-9ddf-1d0a04151638" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="250d39fb-3a48-42ea-ab8d-fde2942668a9" CvElementArea="458, 545, 205, 50" CvTextArea="538, 561, 64, 20" CvTextArgument="Reports" CvType="Button" DesignTimeRectangle="461, 547, 200, 46" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                  Reports' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' check:innerText='Reports' /&gt;" Guid="af787c95-c09d-426b-a33a-e1ff6fc3157b" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="250d39fb-3a48-42ea-ab8d-fde2942668a9" CvElementArea="459, 489, 203, 49" CvTextArea="504, 505, 132, 16" CvTextArgument="Internal Invoices" CvType="Button" DesignTimeRectangle="461, 491, 200, 46" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                  Internal Invoices' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' check:innerText='Internal Invoices' /&gt;" Guid="770cf330-b384-4389-939d-cd5251d1d9fd" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ca67c8908a4ed8b700e3e59e152afdb3.png" xmlns="">0doMUxcfTQUG-RtOHd6swuA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Reports(1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "U4xdcTxn8UuhdGZZYEXLpA",
+  "Reference": "ISpIpgv4TEuqjdA9KDFY6g/U4xdcTxn8UuhdGZZYEXLpA",
+  "ParentRef": "ISpIpgv4TEuqjdA9KDFY6g/F_5lDY9wN0KaM9xIri65jA",
+  "Created": "2024-12-12T10:30:52.5647967Z",
+  "Updated": "2024-12-12T10:30:52.5647967Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

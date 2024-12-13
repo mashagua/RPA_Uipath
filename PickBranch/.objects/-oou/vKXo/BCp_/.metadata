@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Log In_ACME website",
+  "Type": "Screen",
+  "Id": "BCp_4unQ6k2azvDobg2i4g",
+  "Reference": "ISpIpgv4TEuqjdA9KDFY6g/BCp_4unQ6k2azvDobg2i4g",
+  "ParentRef": "ISpIpgv4TEuqjdA9KDFY6g/vKXoGcQVOUK1swFDxAyKBQ",
+  "Created": "2024-12-12T08:53:00.2869926Z",
+  "Updated": "2024-12-12T08:53:00.2869926Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
