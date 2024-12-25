@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZNKqjhevoEKrmSwJlnORGA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="c7d160f4-6bf0-49f9-b733-a4b3d0d2618c" CvElementArea="444, 407, 1059, 37" CvType="InputBox" DesignTimeRectangle="445, 409, 1051, 34" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionId_r9f78a5a6b8894040834da2cbce1baedd QuestionInfo_r9f78a5a6b8894040834da2cbce1baedd' tag='INPUT' type='' class='-as-67' placeholder='Enter your answer' aaname='' /&gt;" Guid="91fa6d5d-7a68-40ef-865f-ee4a97c18815" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Employee Information Form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c7d160f4-6bf0-49f9-b733-a4b3d0d2618c" CvTextArea="425, 369, 14, 15" CvTextArgument="6." CvType="Text" DesignTimeRectangle="426, 366, 18, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='6.' class='-ht-58' tag='SPAN' type='' check:innerText='6.' /&gt;" Guid="0d306ac9-9fc7-4a6e-a689-6cc6a173d383" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="c7d160f4-6bf0-49f9-b733-a4b3d0d2618c" CvTextArea="444, 369, 67, 20" CvTextArgument="Birthday:" CvType="Text" DesignTimeRectangle="444, 366, 66, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Birthday:' tag='SPAN' type='' class='text-format-content ' check:innerText='Birthday:' /&gt;" Guid="ac66d0d7-e063-4f23-8f0d-cdd225951873" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="16492bbe74897bbac1c2d5bf2574b5ae.png" xmlns="">0hnigHnhxRkqw2coUINv4Mg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

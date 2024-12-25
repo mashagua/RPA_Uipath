@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Employee Information Form",
+  "Type": "Screen",
+  "Id": "p1pupb5l2UacT7YInFWoLw",
+  "Reference": "teW4q1dyR0Wtf7hmA7a70w/p1pupb5l2UacT7YInFWoLw",
+  "ParentRef": "teW4q1dyR0Wtf7hmA7a70w/F2giu3SCyUKn_9UE9bJLQA",
+  "Created": "2024-12-25T06:54:04.8853287Z",
+  "Updated": "2024-12-25T06:54:04.8853287Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

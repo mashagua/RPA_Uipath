@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IIu-ejawZkmjoZlDzoYztw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="a76bb2ee-2006-46ba-a1fc-8db537896c2f" CvElementArea="444, 558, 26, 26" CvType="RadioButton" DesignTimeRectangle="445, 559, 24, 24" DesignTimeScaleFactor="1" ElementType="RadioButton" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionChoiceOption3' tag='INPUT' type='radio' class='-h_-86' aaname='' /&gt;" Guid="626b2d58-1a2b-466d-8592-49ea9d84b381" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Employee Information Form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a76bb2ee-2006-46ba-a1fc-8db537896c2f" CvElementArea="473, 556, 63, 29" CvTextArea="477, 564, 54, 12" CvType="Icon" DesignTimeRectangle="477, 559, 55, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='QuestionChoiceOption3' tag='SPAN' type='' class='text-format-content css-89' aaname='Divorced' check:innerText='Divorced' /&gt;" Guid="87875f5b-709d-4790-8ce3-62f6123b019b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADsAAAAcCAYAAADfjMc9AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG7SURBVFhH7VUxbsMwDMyT+qk+Jw/JlE9k8dQ1U7Ygi4EUCVItAViREmVSouq0U0qHwEE2LZE8ngivziHA+SsCV4bT99VnduDag5fvRdm39w+3aJS1NnmBVnYBZBGkLMLa5AXM8TWz3oD8Fq7s5goXaO2w04e3p+g8jcr3jMA6L/tjR1kiG2ArD3ED/gG5GoVsX9mKLGGEA9xh2NT+54at7CzZ6SA+r/f3pHT3Jkw+2iuMYxB2AeB2hQHHIloZF75N2aYz2PTJVKwIlSvHZbII/Z/9gWwhqJ6PMNz0TDdNUfFSsWU/kpXvCKpB3qIRBopXna1uG+WKBNccJ8fGWpjj/Mxm2GT1sy6gbUSzPytbCoyQzVIw9mKstNfO9ceZ7Vxj+oYE8xksyCQuIItuCNhFIyinZZTPzlXIRn6PK1v5NdkUFAvkNfk7hcuGGGrJpiqoRtawciXf75TFJNFkoJpsKiRMCst9yocKiFgG2ZTvkZnVwCapWLnuGWUrq4uJaMjmQixF6uunirXIsl9YOdPUp68uEWaL9fEtsZV1Cq3sAsgi9H/WKZijnlmnWPDMvpT1g0bZJaxFWf9rgG+V6HCU9ZlcAwAAAABJRU5ErkJggg==" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="42290eb9640d65788945393b5c4ebd2e.png" xmlns="">0kdSv4rVkjEmGf-zgTX4okw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

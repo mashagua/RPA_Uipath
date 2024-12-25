@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UoQSLaxPeEGg7A8buN3pcw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="2002079f-0e4b-402d-9ef9-1ed7ef4f50a6" CvElementArea="442, 659, 1061, 38" CvType="InputBox" DesignTimeRectangle="445, 662, 1051, 34" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionId_r290c282268224d6a8e18d3d7fc9d7f20 QuestionInfo_r290c282268224d6a8e18d3d7fc9d7f20' tag='INPUT' type='' class='-as-67' placeholder='Enter your answer' aaname='' /&gt;" Guid="3d0cc6b0-b556-460d-85e0-e311e6e2ac26" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Employee Information Form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2002079f-0e4b-402d-9ef9-1ed7ef4f50a6" CvTextArea="444, 624, 111, 19" CvTextArgument="City, State, Zip:" CvType="Text" DesignTimeRectangle="444, 620, 111, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='City, State, Zip:' tag='SPAN' type='' class='text-format-content ' check:innerText='City, State, Zip:' /&gt;" Guid="f601e7c3-a954-453d-80f5-435e38d0426d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c99ae683ef6569df9d1c65c6d33f0fb5.png" xmlns="">0xFhr2GsIUEKcB5vWnRsgOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

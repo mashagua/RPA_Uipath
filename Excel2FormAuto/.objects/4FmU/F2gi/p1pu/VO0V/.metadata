@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Divorced",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "VO0V2u3NE0CXlC7YCeD_Ug",
+  "Reference": "teW4q1dyR0Wtf7hmA7a70w/VO0V2u3NE0CXlC7YCeD_Ug",
+  "ParentRef": "teW4q1dyR0Wtf7hmA7a70w/p1pupb5l2UacT7YInFWoLw",
+  "Created": "2024-12-25T07:23:02.11934Z",
+  "Updated": "2024-12-25T07:23:02.11934Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

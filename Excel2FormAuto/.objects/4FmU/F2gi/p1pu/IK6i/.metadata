@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Monthly Salary",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "IK6iLVasi0CfVzZgTTaxMg",
+  "Reference": "teW4q1dyR0Wtf7hmA7a70w/IK6iLVasi0CfVzZgTTaxMg",
+  "ParentRef": "teW4q1dyR0Wtf7hmA7a70w/p1pupb5l2UacT7YInFWoLw",
+  "Created": "2024-12-25T07:36:40.796555Z",
+  "Updated": "2024-12-25T07:36:40.796555Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

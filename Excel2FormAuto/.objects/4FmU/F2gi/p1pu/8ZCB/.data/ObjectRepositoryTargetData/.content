@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dB1uBULMBUyy6577Cvv4oA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="ff20badf-767b-4330-a791-ef616937d18f" CvElementArea="445, 368, 1060, 37" CvType="InputBox" DesignTimeRectangle="445, 370, 1051, 34" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionId_r4231d7f07c3a4279bb0a02dec748a6a5 QuestionInfo_r4231d7f07c3a4279bb0a02dec748a6a5' tag='INPUT' type='' class='-as-67' placeholder='Enter your answer' aaname='' /&gt;" Guid="9db3e460-2719-483d-9b8f-efd5c5f16503" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Employee Information Form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ff20badf-767b-4330-a791-ef616937d18f" CvTextArea="444, 331, 107, 16" CvTextArgument="Email address:" CvType="Text" DesignTimeRectangle="444, 328, 107, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Email address:' tag='SPAN' type='' class='text-format-content ' check:innerText='Email address:' /&gt;" Guid="d784972f-5640-4ab7-9eab-4c61b41666f8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="885415025c2a408ee6d1c0272568bc07.png" xmlns="">0d329Ss2Jt0eHFMdY7mfM_A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

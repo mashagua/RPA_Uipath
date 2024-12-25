@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mDn8PMDmzkOigGZmlIjaPw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="f1b13316-5d58-4fea-8e4e-e445ef1d0c74" CvElementArea="424, 726, 91, 44" CvTextArea="445, 741, 49, 13" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="425, 728, 88, 40" DesignTimeScaleFactor="1" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='css-198' tag='BUTTON' type='' aaname='Submit' check:innerText='Submit' /&gt;" Guid="61a80b03-82f5-4be1-9995-4b71d13559a8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Employee Information Form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5c44e2c770a2f529c330fa74d6b32c47.png" xmlns="">0RHW7RhGi30yUm4n0I7p51Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

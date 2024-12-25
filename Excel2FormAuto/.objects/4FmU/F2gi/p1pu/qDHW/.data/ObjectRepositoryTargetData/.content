@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gggErEz_wEuy5JTW48RK2g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="1aa6d231-309f-436f-8988-6768917b5a5b" CvElementArea="444, 607, 26, 26" CvType="RadioButton" DesignTimeRectangle="445, 608, 24, 24" DesignTimeScaleFactor="1" ElementType="RadioButton" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionChoiceOption4' tag='INPUT' type='radio' class='-h_-86' aaname='' /&gt;" Guid="843bb825-2ac2-4640-9984-12fdfae1fdba" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Employee Information Form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1aa6d231-309f-436f-8988-6768917b5a5b" CvTextArea="476, 613, 60, 13" CvTextArgument="Widowed" CvType="Text" DesignTimeRectangle="477, 608, 59, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='QuestionChoiceOption4' tag='SPAN' type='' class='text-format-content css-89' aaname='Widowed' check:innerText='Widowed' /&gt;" Guid="9a390783-4abd-46f0-aa82-f870d789803c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d36c59bdec2a55d3a2fa4a949dd57485.png" xmlns="">0F9jdZ7xj4EqlUWcDbBDD4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VaNs9TLXdUmrQxeOe1sAaw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="15f2da38-5bd5-457a-93e5-d0d4fc23e414" CvElementArea="444, 460, 26, 26" CvType="RadioButton" DesignTimeRectangle="445, 461, 24, 24" DesignTimeScaleFactor="1" ElementType="RadioButton" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='radio' class='-h_-86' aaname='' /&gt;" Guid="7c6b393c-35c2-47ee-8748-4a26a0cebd95" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Employee Information Form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="15f2da38-5bd5-457a-93e5-d0d4fc23e414" CvTextArea="476, 466, 40, 16" CvTextArgument="Single" CvType="Text" DesignTimeRectangle="477, 461, 38, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='QuestionChoiceOption1' tag='SPAN' type='' class='text-format-content css-89' aaname='Single' check:innerText='Single' /&gt;" Guid="c0238f72-15a4-4f17-bf5d-7d9e24943359" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="72c882c6602030df10ddc795aa0cca96.png" xmlns="">0tpHXg4WuwkC6kQYDFYpJgQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
